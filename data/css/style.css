@@ -1,0 +1,16 @@
+@import './font.css';
+@import './reset.css';
+
+:root{
+  /* Text Color */
+  --tx_col_0 : #454034;
+  /* Layout Color */
+  --la_col_0 : #ff7757;
+  --la_col_1 : #eeece1;
+  --la_col_2 : #83d5cd;
+  --la_col_3 : #454034;
+  /* Border Color */
+  --bo_col_0 : #f7f7f7;
+}
+
+
